@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Picnic", "Picnic\Picnic.pyproj", "{764EF4CE-A189-4888-AC38-C2495AC35A17}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Picnic.Test", "Picnic.Test\Picnic.Test.pyproj", "{F3FB2C52-B8F2-4A72-81EB-E61DE1FDD77F}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Picnic.Test", "Picnic.Test\Picnic.Test.pyproj", "{723C745B-5BBF-4047-9149-456A35EFFB4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{764EF4CE-A189-4888-AC38-C2495AC35A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{764EF4CE-A189-4888-AC38-C2495AC35A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F3FB2C52-B8F2-4A72-81EB-E61DE1FDD77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F3FB2C52-B8F2-4A72-81EB-E61DE1FDD77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723C745B-5BBF-4047-9149-456A35EFFB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723C745B-5BBF-4047-9149-456A35EFFB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,8 +7,7 @@
     <ProjectHome>.</ProjectHome>
     <StartupFile>
     </StartupFile>
-    <SearchPath>
-    </SearchPath>
+    <SearchPath>..\Picnic\</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>Picnic.Test</Name>
